@@ -97,7 +97,7 @@ function App() {
         <div className="xs:max-lg:h-scree p-10 xs:max-lg:p-3 mt-20 xs:max-lg:mt-5 bg-red-40 flex items-center xs:max-lg:items-start justify-center">
           <div className="flex xs:max-lg:flex-col xs:max-lg:gap-10 justify-between bg-red-60">
             <div className="w-[50%] xs:max-lg:w-full bg-blue-40 space-y-7 xs:max-lg:space-y-5 flex items-start justify-center flex-col">
-              <p className="font-[Inter] text-[#1D2939] font-semibold text-[2.5rem] xs:max-lg:text-2xl leading-[3rem] ">
+              <p className="font-[Inter] text-[#1D2939] font-semibold text-[2.5rem] xs:max-lg:text-3xl leading-[3rem] ">
                 Uniting the world,
                 <br /> one video call at a time
               </p>
@@ -509,7 +509,7 @@ function App() {
           </div>
         </div>
       </footer>
-      <div className="w-full bg-[#F9FAFB] py-10 px-20 xs:max-lg:p-0 mt-10 flex xs:max-lg:flex-col-reverse xs:max-lg:gap-3 justify-between items-center">
+      <div className="w-full bg-[#F9FAFB] py-10 px-20 xs:max-lg:p-2 mt-10 flex xs:max-lg:flex-col-reverse xs:max-lg:gap-3 justify-between items-center">
         <p className="font-[Inter] font-normal text-[16px] xs:max-lg:text-xs text-[#667085] ">
           &copy; {new Date().getFullYear()} ClearLink. All rights reserved.
         </p>
